@@ -1,0 +1,9 @@
+{
+    "domain": "switch_rebootergs308e",
+    "name": "Switch Rebooter GS308E",
+    "version": "1.0",
+    "dependencies": [],
+    "requirements": ["requests", "beautifulsoup4"],
+    "config_flow": true
+  }
+  
